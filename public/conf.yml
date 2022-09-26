@@ -32,7 +32,7 @@ appConfig:
     hideNav: false
     hideSearch: false
     hideSettings: false
-    hideFooter: false
+    hideFooter: true
   auth:
     enableGuestAccess: false
     users: []
