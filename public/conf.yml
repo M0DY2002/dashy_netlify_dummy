@@ -21,7 +21,7 @@ appConfig:
   enableMultiTasking: false
   widgetsAlwaysUseProxy: false
   webSearch:
-    disableWebSearch: false
+    disableWebSearch: true
     searchEngine: duckduckgo
     openingMethod: newtab
     searchBangs: {}
@@ -41,10 +41,10 @@ appConfig:
   preventWriteToDisk: true
   preventLocalSave: false
   disableConfiguration: false
-  disableConfigurationForNonAdmin: false
-  allowConfigEdit: true
+  disableConfigurationForNonAdmin: true
+  allowConfigEdit: false
   enableServiceWorker: false
-  disableContextMenu: false
+  disableContextMenu: true
   disableUpdateChecks: false
   disableSmartSort: true
   enableErrorReporting: false
