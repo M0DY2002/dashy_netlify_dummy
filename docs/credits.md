@@ -89,13 +89,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/M0DY2002">
+            <img src="https://avatars.githubusercontent.com/u/105606287?v=4" width="80;" alt="M0DY2002"/>
+            <br />
+            <sub><b>M0DY2002</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/Cereal916">
             <img src="https://avatars.githubusercontent.com/u/7526937?v=4" width="80;" alt="Cereal916"/>
             <br />
             <sub><b>Kristian Brasel</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/UrekD">
             <img src="https://avatars.githubusercontent.com/u/38784343?v=4" width="80;" alt="UrekD"/>
@@ -130,15 +137,15 @@
             <br />
             <sub><b>Bogyeong Kim</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/stanly0726">
             <img src="https://avatars.githubusercontent.com/u/37040069?v=4" width="80;" alt="stanly0726"/>
             <br />
             <sub><b>Stanly0726</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/rubenandre">
             <img src="https://avatars.githubusercontent.com/u/9402773?v=4" width="80;" alt="rubenandre"/>
@@ -173,20 +180,13 @@
             <br />
             <sub><b>CHAIYEON CHO</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/daentech">
             <img src="https://avatars.githubusercontent.com/u/358678?v=4" width="80;" alt="daentech"/>
             <br />
             <sub><b>Dan Gilbert</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/M0DY2002">
-            <img src="https://avatars.githubusercontent.com/u/105606287?v=4" width="80;" alt="M0DY2002"/>
-            <br />
-            <sub><b>M0DY2002</b></sub>
         </a>
     </td>
     <td align="center">
